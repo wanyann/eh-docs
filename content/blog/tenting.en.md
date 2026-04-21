@@ -17,44 +17,44 @@ For the same reason, vertical mice exist, but this article is not about them. Le
 
 ![base tenting kit](/images/tenting/base_kit.jpeg)  
 
-Прочные металлические подставки имеют множество регулировок, которые помогают подобрать наиболее удобное положение.  
-Подставка состоит из двух сегментов, и их расположение можно менять. Чтобы клавиатура не смещалась во время работы, шарниры надёжно фиксируются шестигранным ключом. Так подставка не изменит угол даже при самой интенсивной печати.  
+Durable metal stands have numerous adjustments that help find the most comfortable position.  
+The stand consists of two segments, and their positions can be adjusted. To prevent the keyboard from shifting while you work, the hinges are securely locked in place with an Allen wrench. This ensures the stand maintains its angle even during the most intense typing sessions.  
 
-Основание подставок **Универсальной системы наклона** довольно тяжёлое, поэтому конструкция устойчива и не шатается во время печати. На основании имеются резиновые ножки, которые предотвращают скольжение на гладких поверхностях и делают подставку ещё устойчивее.  
+The base of the **Universal Tenting System** stands is quite heavy, so the structure is stable and does not wobble while typing. The base features rubber feet that prevent slipping on smooth surfaces and make the stand even more stable.  
 
-К клавиатуре подставки крепятся с помощью магнитного диска и металлического кольца MagSafe. Во многих клавиатурах `Ergohaven` металлическое кольцо MagSafe уже интегрировано в основание корпуса.  
+The stands attach to the keyboard using a magnetic disc and a MagSafe metal ring. In many `Ergohaven` keyboards already have the MagSafe metal ring integrated into the keyboard case.  
 
 {{< callout type="info" >}}
-Положение магнитного диска на подставке тоже можно регулировать.  
+The position of the magnetic disk on the stand can also be adjusted.  
 {{< /callout >}}
 
 ![macropad with integrated magnet ring](/images/tenting/magnet-ring.jpg)  
 
-В комплекте с **Универсальной системой наклона** идут два клеящихся металлических кольца. Если в основание корпуса клавиатуры не встроено такое кольцо, то его нужно приклеить к корпусу клавиатуры самостоятельно.  
+The **Universal Tenting System** comes with two adhesive metal rings. If your keyboard doesn't have such a ring built-in, you'll need to attach it to the keyboard yourself.  
 
 {{< callout type="warning" >}}
-Перед приклеиванием обязательно очистите и обезжирьте поверхность основания клавиатуры, протерев его салфетками из комплекта.  
+Before applying the adhesive, be sure to clean and degrease the keyboard case surface by wiping it with the included wipes.  
 {{< /callout >}}
 
 ![tenting system package](/images/tenting/package.jpeg)  
 
-## Подушечки под запястья  
+## Palm Rests  
 
-Ещё один важный компонент **Универсальной системы наклона** — подушечки под запястья.  
+Another important component of the **Universal Tenting System** is the palm rests.  
 
 ![tented palm rest](/images/tenting/rest-tented.jpeg)  
 
-При наклоне клавиатуры её высота заметно увеличивается, но мягкие подушечки из поролона и экокожи помогают удобно опереть ладонь. Подушечки на подставках имеют такой же набор регулировок, как и сами подставки, поэтому подобрать нужную высоту и угол несложно.  
+When the keyboard is tilted, its height increases noticeably, but the soft rests made of foam and eco-leather provide comfortable support for your palms. The pads on the stands offer the same range of adjustments as the stands themselves, so it’s easy to find the right height and angle.  
 
-Благодаря множеству регулировок подушечки можно использовать по-разному: как опору для отдыха руки в моменты, когда вы не печатаете, или как полноценную часть рабочего сценария, когда ладонь остаётся на мягкой поверхности даже во время набора текста. Подушечки легко зафиксировать на нужной высоте под конкретный сценарий использования.  
+Thanks to its many adjustment options, the paml rest can be used in various ways: as a support for resting your hand when you’re not typing, or as an integral part of your workflow, allowing your palm to remain on the soft surface even while typing. The palm rest can be easily fixed to the desired height for any specific use case.  
 
 ![palm rest](/images/tenting/rest.jpeg)  
 
-Их можно использовать как с подставками, так и без них. Даже без наклона клавиатуры подушечки остаются удобной опорой для ладони. Если расположить их рядом с клавиатурой, руке будет комфортнее и во время печати, и во время отдыха, потому что изгиб кисти становится заметно меньше, чем при опоре на стол.  
+They can be used both with or without stands. Even without keyboard tenting, the rests provide a comfortable support for your palms. Placing them next to the keyboard makes your hand more comfortable both while typing and when resting, because the wrist bend is significantly less than when resting on the desk.  
 
-## Примеры ипользования
+## Usage Examples
 
-Все перечисленные особенности системы наклона помогают организовать очень удобное рабочее место. Ниже можно посмотреть несколько впечатляющих примеров от участников сообщества.  
+All of the tenting system features listed above help create a very comfortable workspace. Below are a few impressive examples from community members.  
 
 ![tenting usecase](/images/tenting/bst1.jpeg "https://t.me/c/1464748383/10811/96331")  
 
@@ -62,4 +62,4 @@ For the same reason, vertical mice exist, but this article is not about them. Le
 
 ![tenting usecase](/images/tenting/bst3.jpg "https://t.me/c/1464748383/10811/98054/")  
 
-Больше интересных примеров можно найти в <a href="https://t.me/+E-mlq11c97AyZmY6" target="_blank">сообществе Ergohaven</a>, в <a href="https://t.me/c/1464748383/10811" target="_blank">топике BST</a>.  
+You can find more interesting examples in the <a href="https://t.me/+E-mlq11c97AyZmY6" target="_blank">Ergohaven community</a>, in the <a href="https://t.me/c/1464748383/10811" target="_blank">BST topic</a>.  
