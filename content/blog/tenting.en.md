@@ -4,11 +4,11 @@ date: 2026-04-20
 ---
 ![keyboard tenting](/images/tenting/hero.jpeg)  
 
-Let's start with the question: why tilt a keyboard at all?
+Let's start with the question: why tent a keyboard at all?
 
 <!--more-->  
 
-Keyboard tenting, makes working with a split keyboard, already comfortable, even more so. By tilting the keyboard, the wrist adopts a more natural position, like when shaking hands.  
+Keyboard tenting, makes working with a split keyboard, already comfortable, even more so. By tenting the keyboard, the wrist adopts a more natural position, like when shaking hands.  
 For the same reason, vertical mice exist, but this article is not about them. Let's return to keyboard tenting and look at the <a href="https://eh.industries/shop/tproduct/767895441-831009055342-universal-tenting-system-pre-order" target="_blank">Universal Tenting System</a>, offered by `Ergohaven`.  
 
 ## Keyboard Tenting Stands  
